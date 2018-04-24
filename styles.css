@@ -1,0 +1,229 @@
+body{
+    
+    background-color: #F8F8F8;
+    width:75%;
+
+}
+.top-content{
+    display: inline-flex;
+    border-top-style: solid;
+    border-top-color: #F3841C;
+    border-top-width: thick;
+    background-color: white;
+    width: 125%;
+   
+}
+.top-content .head-menu {
+    
+    display: inline-flex;
+    margin-top: 25px;
+    margin-left:  223px;
+    text-transform: uppercase;
+    margin-right:55px;
+   }
+.top-content .head-menu .navigation{
+   
+    margin:0 60px 55px -15px;
+    width: 150px;
+}
+.logo img{
+    margin-left: 30px;
+}
+.bodycontent{
+    display: inline-flex;
+    margin-top:20px;
+    width: 107%;
+}
+.left{
+    width:250%;
+}
+.top-left1
+{
+    border-top-style: solid;
+    border-top-color: #F3841C;
+    border-top-width: thick;
+    background-color: white;
+   
+   
+}
+.top-left1 .image1 img{
+    margin-top: 10px;
+    width:95%;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.top-left1 .top-text h3{
+ text-transform: uppercase;
+}
+.top-left1 .top-text{
+    
+    padding-left:15px;
+    padding-right:10px;
+}
+.top-left2, .numbers{
+    margin-top: 30px;
+    border-top-style: solid;
+    border-top-color: #F3841C;
+    border-top-width: thick;
+    background-color: white;
+
+}
+.numbers{
+    height:50px;
+}
+.top-left2 .text h3{
+    text-transform: uppercase;
+   }
+.top-left2 .text{
+    padding-left:15px;
+    padding-right:1px;
+}
+
+.image2 img{
+    margin-top: 10px;
+    width:95%;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.right{
+  
+    width: 100%;
+    margin:0 -174px 0 60px;
+    height:570px;
+}
+.right .section1{
+    border-top-style: solid;
+    border-top-color: #F3841C;
+    border-top-width: thick;
+    background-color: white;
+    height:247px;
+}
+.right .section1 img{
+    width:90%;
+    margin: 8px 0 84px 14px;
+    height: 230px;
+    background-color: white;
+    
+}
+.right .section2{
+    border-top-style: solid;
+    border-top-color: #F3841C;
+    border-top-width: thick;
+    width: 100%;
+    height: 100px;
+    margin-top: 30px;
+    background-color: white;
+    
+}
+.right .section2 #popular,#recent{
+     color: black;
+     border: none;
+     padding: 15px 32px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 16px;
+     cursor: pointer;
+     width: 175px;
+}
+.right .section2 #recent{
+    background-color: #e7e7e7;
+}
+.right .section2 #popular{
+    background-color:white;
+}
+.right .search{
+    border-top-style: solid;
+    border-top-color: #F3841C;
+    border-top-width: thick;
+    width: 100%;
+    height: 75px;
+    margin-top: 30px;
+    background-color: white;
+}
+.right .search #search-text{
+    margin-top:25px;
+    margin-left: 15px;
+    
+}
+.right .sponsers{
+    border-top-style: solid;
+    border-top-color: #F3841C;
+    border-top-width: thick;
+    width: 100%;
+    height: 200px;
+    margin-top: 30px;
+    background-color: white;
+}
+.right .sponsers #img1{
+    margin-left: 15px;
+}
+.right .sponsers #img2{
+    margin-left: 20px;
+}
+
+
+#footer .column {
+    float: left;
+    height: 300px; 
+    margin:0 30px 0 0;
+    border:5px;
+    width:33%;
+    padding-left:25px;
+    
+
+   }
+  
+#footer .row {
+    display:inline-flex;
+    width:125%;
+    border-top-style: solid;
+    border-top-color: #F3841C;
+    border-top-width: thick;
+    background-color: white;
+    margin-top:20px;
+    
+  }
+  #footer-text1{
+      text-align: left;
+     padding-left:10px;
+     padding-top:10px;
+  }
+  #footer-text2{
+   
+    padding-top:10px;
+    margin: 0 0 0 763px;
+}
+
+#footer-text{
+    display:inline-flex;
+    width: 125%;
+    background-color: white;
+    height:50px;
+    margin:0 0 0 0;
+}
+#footer #tags{
+display:flex;
+flex-wrap: wrap;
+
+}
+#footer #tags p{
+    background-color: #E9E9E9;
+    border-top-width: thin;
+    border-bottom-width: thin;
+    border-right-width: thin;
+    width: 113px;
+    height: 27px;
+    border-left-color: #F3841C;
+    border-left-width: thick;
+    margin:8px;
+    text-align:center;
+    margin-top: 20px;
+    border-style:solid;
+    padding-top: 10px;
+   
+     
+}
+
+  
